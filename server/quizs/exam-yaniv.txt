@@ -1,0 +1,25 @@
+q-quistion 1
+t-true
+f-false
+f-false
+f-false
+q-quistion 2
+f-false
+f-false
+t-true
+f-false
+q-quistion 3
+f-true
+f-false
+t-true
+f-false
+q-quistion 4
+f-true
+f-false
+t-true
+f-true
+q-quistion 5
+f-true
+f-true
+t-true
+f-true
